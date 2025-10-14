@@ -1,2 +1,2 @@
 endpoints:
-  distributor-mgmt: dev.portal.aws
+  distributor-mgmt: http://localhost:8082
