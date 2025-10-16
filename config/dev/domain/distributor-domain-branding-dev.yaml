@@ -44,7 +44,7 @@ server:
 # Clients basePath
 api-configuration:
   common-platform.distributor-mgmt:
-    base-path: ${endpoints.distributor-mgmt}
+    base-path: ${endpoints.common.common-platform-distributor-mgmt}
 
 springdoc:
   api-docs:
