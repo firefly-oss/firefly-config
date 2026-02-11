@@ -1,22 +1,22 @@
 endpoints:
   common:
-    common-platform-accounting-gl: https://app-common-platform-accounting-gl.dev.soon.es
-    common-platform-auth-mgmt: https://app-common-platform-auth-mgmt.dev.soon.es
-    common-platform-config-mgmt: https://app-common-platform-config-mgmt.dev.soon.es
-    common-platform-contract-mgmt: https://app-common-platform-contract-mgmt.dev.soon.es
-    common-platform-customer-mgmt: https://app-common-platform-customer-mgmt.dev.soon.es
-    common-platform-distributor-mgmt: https://app-common-platform-distributor-mgmt.dev.soon.es
-    common-platform-document-mgmt: https://app-common-platform-document-mgmt.dev.soon.es
-    common-platform-kycb-mgmt: https://app-common-platform-kycb-mgmt.dev.soon.es
-    common-platform-modelhub: https://app-common-platform-modelhub.dev.soon.es
-    common-platform-notification-services: https://app-common-platform-notification-services.dev.soon.es
-    common-platform-org-mgmt: https://app-common-platform-org-mgmt.dev.soon.es
-    common-platform-product-mgmt: https://app-common-platform-product-mgmt.dev.soon.es
-    common-platform-reference-master-data: https://app-common-platform-reference-master-data.dev.soon.es
-    common-platform-rule-engine: https://app-common-platform-rule-engine.dev.soon.es
-    common-platform-sca-mgmt: https://app-common-platform-sca-mgmt.dev.soon.es
-    common-platform-user-mgmt: https://app-common-platform-user-mgmt.dev.soon.es
-    common-platform-webhooks: https://app-common-platform-webhooks.dev.soon.es
+    core-common-accounting-gl: https://app-core-common-accounting-gl.dev.soon.es
+    core-common-auth-mgmt: https://app-core-common-auth-mgmt.dev.soon.es
+    core-common-config-mgmt: https://app-core-common-config-mgmt.dev.soon.es
+    core-common-contract-mgmt: https://app-core-common-contract-mgmt.dev.soon.es
+    core-common-customer-mgmt: https://app-core-common-customer-mgmt.dev.soon.es
+    core-common-distributor-mgmt: https://app-core-common-distributor-mgmt.dev.soon.es
+    core-common-document-mgmt: https://app-core-common-document-mgmt.dev.soon.es
+    core-common-kycb-mgmt: https://app-core-common-kycb-mgmt.dev.soon.es
+    core-common-modelhub: https://app-core-common-modelhub.dev.soon.es
+    core-common-notification-services: https://app-core-common-notification-services.dev.soon.es
+    core-common-org-mgmt: https://app-core-common-org-mgmt.dev.soon.es
+    core-common-product-mgmt: https://app-core-common-product-mgmt.dev.soon.es
+    core-common-reference-master-data: https://app-core-common-reference-master-data.dev.soon.es
+    core-common-rule-engine: https://app-core-common-rule-engine.dev.soon.es
+    core-common-sca-mgmt: https://app-core-common-sca-mgmt.dev.soon.es
+    core-common-user-mgmt: https://app-core-common-user-mgmt.dev.soon.es
+    core-common-webhooks: https://app-core-common-webhooks.dev.soon.es
 
   core:
     core-baking-cards: https://app-core-baking-cards.dev.soon.es
@@ -66,16 +66,16 @@ endpoints:
     customer-domain-consents: https://app-customer-domain-consents.dev.soon.es
     customer-domain-contracts: https://app-customer-domain-contracts.dev.soon.es
     customer-domain-docs-attachments: https://app-customer-domain-docs-attachments.dev.soon.es
-    customer-domain-kyc-kyb: https://app-customer-domain-kyc-kyb.dev.soon.es
-    customer-domain-people: https://app-customer-domain-people.dev.soon.es
+    domain-customer-kyc-kyb: https://app-domain-customer-kyc-kyb.dev.soon.es
+    domain-customer-people: https://app-domain-customer-people.dev.soon.es
     customer-domain-ubo-registry: https://app-customer-domain-ubo-registry.dev.soon.es
     distributor-domain-agents: https://app-distributor-domain-agents.dev.soon.es
-    distributor-domain-branding: https://app-distributor-domain-branding.dev.soon.es
-    distributor-domain-catalog: https://app-distributor-domain-catalog.dev.soon.es
+    domain-distributor-branding: https://app-domain-distributor-branding.dev.soon.es
+    domain-distributor-catalog: https://app-domain-distributor-catalog.dev.soon.es
     distributor-domain-partner-settlement: https://app-distributor-domain-partner-settlement.dev.soon.es
     distributor-domain-pipeline: https://app-distributor-domain-pipeline.dev.soon.es
-    lending-domain-loan-origination: https://app-lending-domain-loan-origination.dev.soon.es
-    lending-domain-loan-servicing: https://app-lending-domain-loan-servicing.dev.soon.es
+    domain-lending-loan-origination: https://app-domain-lending-loan-origination.dev.soon.es
+    domain-lending-loan-servicing: https://app-domain-lending-loan-servicing.dev.soon.es
     organization-domain-branches: https://app-organization-domain-branches.dev.soon.es
     organization-domain-channels: https://app-organization-domain-channels.dev.soon.es
     organization-domain-employees: https://app-organization-domain-employees.dev.soon.es
@@ -84,8 +84,8 @@ endpoints:
     product-domain-accounts-deposits: https://app-product-domain-accounts-deposits.dev.soon.es
     product-domain-cards: https://app-product-domain-cards.dev.soon.es
     product-domain-lending: https://app-product-domain-lending.dev.soon.es
-    product-domain-pricing: https://app-product-domain-pricing.dev.soon.es
-    product-domain-product-catalog: https://app-product-domain-product-catalog.dev.soon.es
+    domain-product-pricing: https://app-domain-product-pricing.dev.soon.es
+    domain-product-catalog: https://app-domain-product-catalog.dev.soon.es
     product-domain-trade-finance: https://app-product-domain-trade-finance.dev.soon.es
     reporting-data-domain-api-surface: https://app-reporting-data-domain-api-surface.dev.soon.es
     reporting-data-domain-audit-trail-observability: https://app-reporting-data-domain-audit-trail-observability.dev.soon.es
