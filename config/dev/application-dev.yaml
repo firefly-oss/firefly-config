@@ -27,14 +27,6 @@ endpoints:
     core-banking-payment-hub: https://app-core-banking-payment-hub.dev.soon.es
     core-banking-payments: https://app-core-banking-payments.dev.soon.es
     core-banking-psdx: https://app-core-banking-psdx.dev.soon.es
-    core-erp-accounting-mgmt: https://app-core-erp-accounting-mgmt.dev.soon.es
-    core-erp-compliance-mgmt: https://app-core-erp-compliance-mgmt.dev.soon.es
-    core-erp-crm-mgmt: https://app-core-erp-crm-mgmt.dev.soon.es
-    core-erp-inventory-mgmt: https://app-core-erp-inventory-mgmt.dev.soon.es
-    core-erp-logistic-mgmt: https://app-core-erp-logistic-mgmt.dev.soon.es
-    core-erp-master-data-mgmt: https://app-core-erp-master-data-mgmt.dev.soon.es
-    core-erp-purchasing-mgmt: https://app-core-erp-purchasing-mgmt.dev.soon.es
-    core-erp-sales-mgmt: https://app-core-erp-sales-mgmt.dev.soon.es
     core-lending-collateral-management: https://app-core-lending-collateral-management.dev.soon.es
     core-lending-confirming: https://app-core-lending-confirming.dev.soon.es
     core-lending-credit-cards: https://app-core-lending-credit-cards.dev.soon.es
