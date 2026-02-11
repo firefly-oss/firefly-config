@@ -48,7 +48,6 @@ endpoints:
     core-lending-provisioning-risk: https://app-core-lending-provisioning-risk.dev.soon.es
     core-lending-regulatory-compliance: https://app-core-lending-regulatory-compliance.dev.soon.es
     core-lending-renting: https://app-core-lending-renting.dev.soon.es
-    core-orchestrator: https://app-core-orchestrator.dev.soon.es
 
   domain:
     accounts-payments-domain-charges: https://app-accounts-payments-domain-charges.dev.soon.es
